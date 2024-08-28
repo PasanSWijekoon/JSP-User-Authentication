@@ -67,7 +67,7 @@ If you're using GlassFish Server with NetBeans instead of Apache Tomcat, here ar
    - Clone the repository using Git:
 
      ```bash
-     git clone https://github.com/PasanSWijekoon/JSP-User-Login
+     git clone https://github.com/PasanSWijekoon/JSP-User-Authentication
      ```
 
 2. **Open NetBeans IDE**:
@@ -167,6 +167,4 @@ Free To Use AnyOne
 
 ### Home Page After Login
 ![Home Page After Login](https://github.com/PasanSWijekoon/JSP-User-Authentication/blob/main/web/Assets/Home.png?raw=true)
-=======
-# JSP-Login
->>>>>>> db03aeb Initial commit
+
