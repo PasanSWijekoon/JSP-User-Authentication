@@ -1,5 +1,4 @@
-<<<<<<< Upstream, based on origin/main
-# User Authentication Web Application 1
+# User Authentication Web Application 
 
 ## Overview
 
@@ -161,13 +160,13 @@ Free To Use AnyOne
 ## Screenshots
 
 ### User Registration Page
-![User Registration Page](images/registration.png)
+![User Registration Page](https://github.com/PasanSWijekoon/JSP-User-Authentication/blob/main/web/Assets/Register.png?raw=true)
 
 ### User Login Page
-![User Login Page](images/login.png)
+![User Login Page](https://github.com/PasanSWijekoon/JSP-User-Authentication/blob/main/web/Assets/Login.png?raw=true)
 
 ### Home Page After Login
-![Home Page After Login](images/home.png)
+![Home Page After Login](https://github.com/PasanSWijekoon/JSP-User-Authentication/blob/main/web/Assets/Home.png?raw=true)
 =======
 # JSP-Login
 >>>>>>> db03aeb Initial commit
